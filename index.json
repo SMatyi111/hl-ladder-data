@@ -1,25 +1,25 @@
 {
  "coins": {
   "BTC": {
-   "as_of": "2026-10-09T07:00:00+00:00",
-   "mark": 82542.0,
-   "coverage_of_oi": 0.7714505089121738,
-   "in_ladder": 5420
+   "as_of": "2026-10-09T08:00:00+00:00",
+   "mark": 82616.0,
+   "coverage_of_oi": 0.7474504598815027,
+   "in_ladder": 5435
   },
   "ETH": {
-   "as_of": "2026-10-09T07:00:00+00:00",
-   "mark": 2498.1,
-   "coverage_of_oi": 0.78922214262265,
-   "in_ladder": 1943
+   "as_of": "2026-10-09T08:00:00+00:00",
+   "mark": 2503.3,
+   "coverage_of_oi": 0.8246810227559965,
+   "in_ladder": 1947
   },
   "SOL": {
-   "as_of": "2026-10-09T07:00:00+00:00",
-   "mark": 110.6,
-   "coverage_of_oi": 0.83234109168308,
-   "in_ladder": 1066
+   "as_of": "2026-10-09T08:00:00+00:00",
+   "mark": 110.65,
+   "coverage_of_oi": 0.8862540222763495,
+   "in_ladder": 1071
   }
  },
- "published_at": "2026-10-09T07:58:06.418742+00:00",
+ "published_at": "2026-10-09T08:58:06.260941+00:00",
  "schema": 1,
  "cli": "pip install git+https://github.com/SMatyi111/hl-ladder ; hl-ladder show BTC"
 }
