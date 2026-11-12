@@ -19,7 +19,7 @@
    "in_ladder": 1727
   }
  },
- "published_at": "2026-11-12T15:58:06.380226+00:00",
+ "published_at": "2026-11-12T16:58:17.682881+00:00",
  "schema": 1,
  "cli": "pip install git+https://github.com/SMatyi111/hl-ladder ; hl-ladder show BTC"
 }
